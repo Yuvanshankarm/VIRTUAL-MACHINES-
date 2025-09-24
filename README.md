@@ -1,6 +1,7 @@
 # VIRTUAL-MACHINES-
 EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-
+# Name: Yuvan shankar M
+# Reg no : 2122242220126
 Aim:
 To move the files between virtual machine.
  You can move files between virtual machines in several ways:
